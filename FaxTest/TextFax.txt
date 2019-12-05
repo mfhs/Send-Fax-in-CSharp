@@ -1,0 +1,7 @@
+﻿Test Fax 0001.
+This is a test Tax file Sent from Windows 10 Using C#.
+This file is updated to test new Fax method.
+
+If you receive this Fax, please let us(Aprosoft) know.
+
+Thank you.

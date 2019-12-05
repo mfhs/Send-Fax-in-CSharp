@@ -1,0 +1,8 @@
+E:\Aprosoft\WPF\Codes\FaxTest\FaxTest\bin\Debug\FaxTest.exe.config
+E:\Aprosoft\WPF\Codes\FaxTest\FaxTest\bin\Debug\FaxTest.exe
+E:\Aprosoft\WPF\Codes\FaxTest\FaxTest\bin\Debug\FaxTest.pdb
+E:\Aprosoft\WPF\Codes\FaxTest\FaxTest\bin\Debug\Interop.FAXCOMEXLib.dll
+E:\Aprosoft\WPF\Codes\FaxTest\FaxTest\obj\Debug\Interop.FAXCOMEXLib.dll
+E:\Aprosoft\WPF\Codes\FaxTest\FaxTest\obj\Debug\FaxTest.csproj.ResolveComReference.cache
+E:\Aprosoft\WPF\Codes\FaxTest\FaxTest\obj\Debug\FaxTest.exe
+E:\Aprosoft\WPF\Codes\FaxTest\FaxTest\obj\Debug\FaxTest.pdb
